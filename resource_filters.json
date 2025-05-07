@@ -2,49 +2,49 @@
     "groups": [
       {
         "id": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
-        "name": "Media Source",
+        "name": "🍿 Media Source",
         "color": "#96CEB4",
         "isExpanded": true
       },
       {
         "id": "550e8400-e29b-41d4-a716-446655440000",
-        "name": "Resolution",
+        "name": "🖥️ Resolution",
         "color": "#4ECDC4",
         "isExpanded": true
       },
       {
         "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
-        "name": "Dynamic Range",
+        "name": "👀 Dynamic Range",
         "color": "#FF6B6B",
         "isExpanded": true
       },
       {
         "id": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
-        "name": "Audio",
+        "name": "🎧 Audio",
         "color": "#45B7D1",
         "isExpanded": true
       },
       {
         "id": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
-        "name": "Audio Channels",
+        "name": "🔊 Audio Channels",
         "color": "#FFD700",
         "isExpanded": true
       },
       {
         "id": "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-        "name": "ðŸŒ Stream Languages",
+        "name": "🌐 Stream Languages",
         "color": "#FFA07A",
         "isExpanded": true
       },
       {
         "id": "12345678-1234-1234-1234-123456789abc",
-        "name": "Scrapers",
+        "name": "🪏 Scrapers",
         "color": "#8A2BE2",
         "isExpanded": true
       },
       {
         "id": "abcdef12-3456-7890-abcd-ef1234567890",
-        "name": "Services",
+        "name": "😌 Services",
         "color": "#FF4500",
         "isExpanded": true
       }
@@ -52,7 +52,7 @@
     "filters": [
       {
         "id": "d4e5f6a7-b8c9-0d1e-2f3a-3b5c6d7e8f9a",
-        "name": "ðŸ“€ Remux 1",
+        "name": "📀 Remux 1",
         "pattern": "(?i)\\bRemux\\b.*\\b(3L|BiZKiT|BLURANiUM|CiNEPHiLES|FraMeSToR|PmP|ZQ)\\b|-BMF|-WiLDCAT",
         "type": "filter",
         "isEnabled": true,
@@ -64,7 +64,7 @@
       },
       {
         "id": "d4e5f6a7-b8c9-0d1e-2f5a-3b5c6d7e8f9a",
-        "name": "ðŸ“€ Remux 2",
+        "name": "📀 Remux 2",
         "pattern": "(?i)\\bRemux\\b.*\\b(Flights|NCmt|playBD|SiCFoI|SURFINBIRD|TEPES|decibeL|EPSiLON|HiFi|KRaLiMaRKo|PTer|TRiToN)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -76,7 +76,7 @@
       },
       {
         "id": "d4e5f6a7-b8c7-0d1e-2f5a-3b5c6d7e8f9a",
-        "name": "ðŸ“€ Remux 3",
+        "name": "📀 Remux 3",
         "pattern": "(?i)\\bRemux\\b.*\\b(iFT|NTb|PTP|SumVision|TOA)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -88,7 +88,7 @@
       },
       {
         "id": "d4e5f6a7-b8c9-0d1e-2f3a-3b5c4d7e8f9a",
-        "name": "ðŸ’¿ Bluray 1",
+        "name": "💿 Bluray 1",
         "pattern": "(?i)^(?=.*\\bBlu[-_]?Ray\\b)(?!.*\\bRemux\\b)(?!.*\\bWEB[-_.]?(?:DL|Rip)\\b)(?=.*(?:\\b(?:BBQ|c0kE|Chotab|CRiSC|CtrlHD|D-Z0N3|Dariush|decibeL|DON|EbP|EDPH|Geek|LolHD|MainFrame|NCmt|NTb|PTer|TayTO|TDD|TnP|VietHD|W4NK3R|ZQ)\\b|-BMF)).*",
         "type": "filter",
         "isEnabled": true,
@@ -100,7 +100,7 @@
       },
       {
         "id": "d4e5f6a7-b7c9-0d1e-2f3a-3b5c4d7e8f9a",
-        "name": "ðŸ’¿ Bluray 2",
+        "name": "💿 Bluray 2",
         "pattern": "(?i)^(?=.*\\bBlu[-_]?Ray\\b)(?!.*\\bRemux\\b)(?!.*\\bWEB[-_.]?(?:DL|Rip)\\b)(?=.*\\b(?:EA|HiDt|HiSD|HQMUX|iFT|QOQ|SA89|sbR)\\b).*",
         "type": "filter",
         "isEnabled": true,
@@ -112,7 +112,7 @@
       },
       {
         "id": "d4e2f6a7-b7c9-0d1e-2f3a-3b5c4d7e8f9a",
-        "name": "ðŸ’¿ Bluray 3",
+        "name": "💿 Bluray 3",
         "pattern": "(?i)^(?=.*\\bBlu[-_]?Ray\\b)(?!.*\\bRemux\\b)(?!.*\\bWEB[-_.]?(?:DL|Rip)\\b)(?=.*\\b(?:BHDStudio|hallowed|HONE|LoRD|SPHD|WEBDV|playHD)\\b).*",
         "type": "filter",
         "isEnabled": true,
@@ -124,7 +124,7 @@
       },
       {
         "id": "d4e2f6a7-b3c9-0d1e-2f3a-3b5c4d7e8f9a",
-        "name": "ðŸŒ Web 1",
+        "name": "🌐 Web 1",
         "pattern": "(?i)^(?=.*\\bWEB[-_.]?(?:DL|RIP)\\b)(?=.*\\b(?:ABBIE|AJP69|APEX|PAXA|PEXA|XEPA|BLUTONiUM|CasStudio|CMRG|CRFW|CRUD|CtrlHD|FLUX|GNOME|HONE|KiNGS|Kitsune|monkee|NOSiViD|NTb|NTG|QOQ|RTN|SiC|TEPES|T6D|TOMMY|ViSUM)\\b).*",
         "type": "filter",
         "isEnabled": true,
@@ -136,7 +136,7 @@
       },
       {
         "id": "d4e2f6a7-b3c6-0d1e-2f3a-3b5c4d7e8f9a",
-        "name": "ðŸŒ Web 2",
+        "name": "🌐 Web 2",
         "pattern": "(?i)^(?=.*\\bWEB[-_.]?(?:DL|RIP)\\b)(?=.*\\b(?:3cTWeB|BTW|Chotab|Cinefeel|CiT|Coo7|dB|DEEP|END|ETHiCS|FC|Flights|iJP|iKA|iT00NZ|JETIX|KHN|KiMCHI|LAZY|MiU|MZABI|NPMS|NYH|orbitron|PHOENiX|playWEB|PSiG|ROCCaT|RTFM|SA89|SbR|SDCC|SIGMA|SMURF|SPiRiT|TVSmash|WELP|XEBEC|4KBEC|CEBEX)\\b).*",
         "type": "filter",
         "isEnabled": true,
@@ -148,7 +148,7 @@
       },
       {
         "id": "d4e2f6a7-b3c6-0d1e-2f3a-3b5c4d7e1f9a",
-        "name": "ðŸŒ Web 3",
+        "name": "🌐 Web 3",
         "pattern": "(?i)^(?=.*\\bWEB[-_.]?(?:DL|RIP)\\b)(?=.*\\b(?:DRACULA|GNOMiSSiON|NINJACENTRAL|SiGMA|SLiGNOME|SwAgLaNdEr|T4H|ViSiON)\\b).*",
         "type": "filter",
         "isEnabled": true,
@@ -400,7 +400,7 @@
       },
       {
         "id": "4a6b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
-        "name": "ðŸ‡ºðŸ‡¸ English",
+        "name": "🇺🇸 English",
         "pattern": "(?i)\\b(?:en(?:g(?:lish)?)?)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -412,7 +412,7 @@
       },
       {
         "id": "5b6c7d8e-1f0a-2b3c-4d5e-6f7a8b9c0d1e",
-        "name": "ðŸ‡ªðŸ‡¸ Spanish",
+        "name": "🇪🇸 Spanish",
         "pattern": "(?i)\\b(?:spa(?:nish)?|es|esp(?:aÃ±ol)?|castellano)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -424,7 +424,7 @@
       },
       {
         "id": "6c7d8e9f-0a1b-2c3d-4e5f-7a8b9c0d1e2f",
-        "name": "ðŸ‡«ðŸ‡· French",
+        "name": "🇫🇷 French",
         "pattern": "(?i)\\b(?:fr(?:ench)?|fre|fra)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -436,7 +436,7 @@
       },
       {
         "id": "7d8e9f0a-1b2c-3d4e-5f6a-7b8c9d0e1f2a",
-        "name": "ðŸ‡©ðŸ‡ª German",
+        "name": "🇩🇪 German",
         "pattern": "(?i)\\b(?:ger(?:man)?|de|deu|deutsch)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -448,7 +448,7 @@
       },
       {
         "id": "8e9f0a1b-2c3d-4e5f-6a7b-8c9d0e1f2a3b",
-        "name": "ðŸ‡®ðŸ‡¹ Italian",
+        "name": "🇮🇹 Italian",
         "pattern": "(?i)\\b(?:ita(?:lian)?|it)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -460,7 +460,7 @@
       },
       {
         "id": "9f0a1b2c-3d4e-5f6a-7b8c-9d0e1f2a3b4c",
-        "name": "ðŸ‡µðŸ‡¹ Portuguese",
+        "name": "🇵🇹 Portuguese",
         "pattern": "(?i)\\b(?:por(?:tuguese)?|pt|portuguÃªs|bra)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -472,7 +472,7 @@
       },
       {
         "id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
-        "name": "ðŸ‡·ðŸ‡º Russian",
+        "name": "🇷🇺 Russian",
         "pattern": "(?i)\\b(?:rus(?:sian)?|ru|Ñ€ÑƒÑÑÐºÐ¸Ð¹)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -484,7 +484,7 @@
       },
       {
         "id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
-        "name": "ðŸ‡¨ðŸ‡³ Chinese",
+        "name": "🇨🇳 Chinese",
         "pattern": "(?i)\\b(?:chs|cht|chi(?:nese)?|zh|cn|mandarin)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -496,7 +496,7 @@
       },
       {
         "id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
-        "name": "ðŸ‡¯ðŸ‡µ Japanese",
+        "name": "🇯🇵 Japanese",
         "pattern": "(?i)\\b(?:jpn?|japanese|ja)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -508,7 +508,7 @@
       },
       {
         "id": "3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
-        "name": "ðŸ‡°ðŸ‡· Korean",
+        "name": "🇰🇷 Korean",
         "pattern": "(?i)\\b(?:kor(?:ean)?|ko)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -520,7 +520,7 @@
       },
       {
         "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
-        "name": "ðŸ‡³ðŸ‡± Dutch",
+        "name": "🇳🇱 Dutch",
         "pattern": "(?i)\\b(?:dut(?:ch)?|nl|nld)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -532,7 +532,7 @@
       },
       {
         "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
-        "name": "ðŸ‡¸ðŸ‡ª Swedish",
+        "name": "🇸🇪 Swedish",
         "pattern": "(?i)\\b(?:swe(?:dish)?|sv|swe)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -544,7 +544,7 @@
       },
       {
         "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
-        "name": "ðŸ‡³ðŸ‡´ Norwegian",
+        "name": "🇳🇴 Norwegian",
         "pattern": "(?i)\\b(?:nor(?:wegian)?|no|nor)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -556,7 +556,7 @@
       },
       {
         "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
-        "name": "ðŸ‡©ðŸ‡° Danish",
+        "name": "🇩🇰 Danish",
         "pattern": "(?i)\\b(?:dan(?:ish)?|da)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -568,7 +568,7 @@
       },
       {
         "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
-        "name": "ðŸ‡«ðŸ‡® Finnish",
+        "name": "🇫🇮 Finnish",
         "pattern": "(?i)\\b(?:fin(?:nish)?|fi)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -580,7 +580,7 @@
       },
       {
         "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
-        "name": "ðŸ‡µðŸ‡± Polish",
+        "name": "🇵🇱 Polish",
         "pattern": "(?i)\\b(?:pol(?:ish)?|pl|polski)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -592,7 +592,7 @@
       },
       {
         "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
-        "name": "ðŸ‡¸ðŸ‡¦ Arabic",
+        "name": "🇸🇦 Arabic",
         "pattern": "(?i)\\b(?:ara(?:bic)?|ar|Ø¹Ø±Ø¨ÙŠ)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -604,7 +604,7 @@
       },
       {
         "id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
-        "name": "ðŸ‡®ðŸ‡³ Hindi",
+        "name": "🇮🇳 Hindi",
         "pattern": "(?i)\\b(?:hin(?:di)?|hi|à¤¹à¤¿à¤¨à¥à¤¦à¥€)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -616,7 +616,7 @@
       },
       {
         "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
-        "name": "ðŸ‡¹ðŸ‡· Turkish",
+        "name": "🇹🇷 Turkish",
         "pattern": "(?i)\\b(?:tur(?:kish)?|tr|tÃ¼r|tÃ¼rkÃ§e)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -628,7 +628,7 @@
       },
       {
         "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
-        "name": "ðŸ‡¬ðŸ‡· Greek",
+        "name": "🇬🇷 Greek",
         "pattern": "(?i)\\b(?:gre(?:ek)?|el|greek|ÎµÎ»Î»Î·Î½Î¹ÎºÎ¬)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -640,7 +640,7 @@
       },
       {
         "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
-        "name": "ðŸ‡­ðŸ‡º Hungarian",
+        "name": "🇭🇺 Hungarian",
         "pattern": "(?i)\\b(?:hun(?:garian)?|hu|magyar)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -652,7 +652,7 @@
       },
       {
         "id": "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a",
-        "name": "ðŸ‡¨ðŸ‡¿ Czech",
+        "name": "🇨🇿 Czech",
         "pattern": "(?i)\\b(?:cze(?:ch)?|cz|cesky|ÄeÅ¡tina)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -664,7 +664,7 @@
       },
       {
         "id": "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
-        "name": "ðŸ‡ºðŸ‡¦ Ukrainian",
+        "name": "🇺🇦 Ukrainian",
         "pattern": "(?i)\\b(?:ukr(?:ainian)?|ua|ÑƒÐºÑ€|ÑƒÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -676,7 +676,7 @@
       },
       {
         "id": "8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
-        "name": "ðŸ‡·ðŸ‡´ Romanian",
+        "name": "🇷🇴 Romanian",
         "pattern": "(?i)\\b(?:rom(?:anian)?|ro|rum|romÃ¢nÄƒ)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -688,7 +688,7 @@
       },
       {
         "id": "9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d",
-        "name": "ðŸ‡§ðŸ‡¬ Bulgarian",
+        "name": "🇧🇬 Bulgarian",
         "pattern": "(?i)\\b(?:bul(?:garian)?|bg|Ð±ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -700,7 +700,7 @@
       },
       {
         "id": "0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e",
-        "name": "ðŸ‡»ðŸ‡³ Vietnamese",
+        "name": "🇻🇳 Vietnamese",
         "pattern": "(?i)\\b(?:vie(?:tnamese)?|vi|tiáº¿ng viet)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -712,7 +712,7 @@
       },
       {
         "id": "1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
-        "name": "ðŸ‡¹ðŸ‡­ Thai",
+        "name": "🇹🇭 Thai",
         "pattern": "(?i)\\b(?:tha(?:i)?|th|à¹„à¸—à¸¢)\\b",
         "type": "filter",
         "isEnabled": true,
@@ -731,8 +731,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
     "textColor": "#34C759",
-      "imageURL": "",
-      "groupId": ""
+      "imageURL": ""
     },
     {
       "id": "3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
@@ -796,7 +795,7 @@
     },
     {
       "id": "8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a",
-      "name": "RD",
+      "name": "✨RD✨",
       "pattern": "(?i)\\b(rd|real[\\s-]?debrid)\\b",
       "type": "filter",
       "isEnabled": true,
@@ -808,7 +807,7 @@
     },
     {
       "id": "9e0f1a2b-3c4d-5e6f-7a8b-9c0d1e2f3a4b",
-      "name": "TB",
+      "name": "✨TB✨",
       "pattern": "(?i)\\b(tb|torbox)\\b",
       "type": "filter",
       "isEnabled": true,
