@@ -325,7 +325,7 @@
 
 
 
-  
+
 
 
 
@@ -1359,5 +1359,139 @@
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
+  },
+
+
+
+
+
+
+
+  {
+    "category": "Anime Collection",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "id": "isekai",
+    "name": "isekai",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/anime/ChatGPT%20Image%20May%2015%2C%202025%2C%2010_21_05%20PM.png"
+  },
+  {
+    "category": "Anime Collection",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "id": "mecha",
+    "name": "mecha",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/anime/mecha.png"
+  },
+  {
+    "category": "Anime Collection",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "id": "seinen",
+    "name": "seinen",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/anime/seinen.png"
+  },
+  {
+    "category": "Anime Collection",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "id": "shojo",
+    "name": "shojo",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/anime/shojo.png"
+  },
+  {
+    "category": "Anime Collection",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "id": "shonen",
+    "name": "shonen",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/anime/shonen.png"
+  },
+  {
+    "category": "Anime Collection",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "id": "ecchi",
+    "name": "ecchi",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/anime/ecchi.png"
+  },
+  {
+    "category": "Anime Collection",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "id": "josei",
+    "name": "josei",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/anime/josei.png"
   }
+
+
+
+
+
+
+
+  
 ]
