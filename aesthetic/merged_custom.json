@@ -118,6 +118,14 @@
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
   },
+
+
+
+
+
+
+
+
   {
     "id": "trakt-trending-movies",
     "name": "Trakt's Trending Movies",
@@ -153,23 +161,6 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "latest-tv-shows",
-    "name": "Latest TV Shows",
-    "category": "Curated",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Curated/latest%20tv%20shows.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
-  },
-  {
     "id": "latest-movies",
     "name": "Latest Movies (Digital Release)",
     "category": "Curated",
@@ -187,13 +178,13 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "popular-1980s-movies",
-    "name": "Popular 1980s Movies",
-    "category": "Decades",
+    "id": "latest-tv-shows",
+    "name": "Latest TV Shows",
+    "category": "Curated",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/1980.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Curated/latest%20tv%20shows.png",
     "iconName": "film",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
@@ -203,48 +194,22 @@
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
   },
+
+
+
+
+
+
+
+  
   {
-    "id": "popular-1990s-movies",
-    "name": "Popular 1990s Movies",
+    "id": "popular-2025-movies",
+    "name": "Popular 2025 Movies",
     "category": "Decades",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/1990.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
-  },
-  {
-    "id": "popular-2000s-movies",
-    "name": "Popular 2000s Movies",
-    "category": "Decades",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/2000.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
-  },
-  {
-    "id": "popular-2010s-movies",
-    "name": "Popular 2010s Movies",
-    "category": "Decades",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/2010.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/2025.png",
     "iconName": "film",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
@@ -272,13 +237,13 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "popular-2025-movies",
-    "name": "Popular 2025 Movies",
+    "id": "popular-2010s-movies",
+    "name": "Popular 2010s Movies",
     "category": "Decades",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/2025.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/2010.png",
     "iconName": "film",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
@@ -288,6 +253,65 @@
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
   },
+  {
+    "id": "popular-2000s-movies",
+    "name": "Popular 2000s Movies",
+    "category": "Decades",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/2000.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "popular-1990s-movies",
+    "name": "Popular 1990s Movies",
+    "category": "Decades",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/1990.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "popular-1980s-movies",
+    "name": "Popular 1980s Movies",
+    "category": "Decades",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/bombastic482/folders/refs/heads/main/aesthetic/Decades/1980.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+
+
+
+
+
+
+
+
   {
     "id": "action",
     "name": "Action",
